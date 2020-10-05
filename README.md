@@ -1,13 +1,13 @@
 # Laravel-Projects
 
-#HelloLaravel
+# HelloLaravel
 Explain the flow of the request in Laravel Framwork
 
-#LoginModule
+# LoginModule
 Making you to lean about Seeder and Auth Classes
 
-#ContactUs
+# ContactUs
 Example project for CRUD application without resource Contoller
 
-#ProductCRUD
+# ProductCRUD
 Example project for CRUD application with resource Contoller
